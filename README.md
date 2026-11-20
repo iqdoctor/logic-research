@@ -5,6 +5,7 @@
 ## Основной текст
 
 - [От посылки к заключению](docs/От-посылки-к-заключению.md) — вводный конспект: материальная импликация, семантическое следование, выводимость и правила вывода; силлогизм Аристотеля; критика и схема следования Н. П. Брусенцова.
+- [Корпус работ Брусенцова](research/Карта-работ-Брусенцова.md) — что удалось найти и скачать, как читать логические и вычислительные публикации, какие расхождения требуют проверки.
 
 ## Вопросы исследования
 
@@ -22,6 +23,8 @@
 - Аристотель, [«Вторая аналитика»](https://classics.mit.edu/Aristotle/posterior.1.i.html).
 - Stanford Encyclopedia of Philosophy, [Logical Consequence](https://plato.stanford.edu/entries/logical-consequence/), [Propositional Logic](https://plato.stanford.edu/entries/logic-propositional/), [Logic and Conditionals](https://plato.stanford.edu/entries/logic-conditionals/), [Relevance Logic](https://plato.stanford.edu/entries/logic-relevance/).
 - Open Logic Project, [правила вывода для импликации](https://builds.openlogicproject.org/content/first-order-logic/natural-deduction/propositional-rules.pdf).
+
+Скачанные первичные материалы лежат в [`sources/pdfs/`](sources/pdfs/); происхождение файлов и SHA-256 приведены в [`sources/README.md`](sources/README.md) и [`sources/SHA256SUMS.txt`](sources/SHA256SUMS.txt).
 
 ## Статус заметок
 
