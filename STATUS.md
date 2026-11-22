@@ -14,8 +14,8 @@ Nothing.
 
 ## Last change
 
-Reviewed historical rpa-skills PR #3: both independent review lanes approved, the blocking `greek-scholastic` gate passed, and no code fix was needed.
+Added an explicit classical first-order encoding of variation across situations and separated it from extensional facts and theory-level underdetermination in the main TeX document; Tectonic build, finite profile check, diff check, and visual review passed.
 
 ## Next session
 
-Check Logika PR #4 and issue #3 first. After #4 merges, repair the two installer failure paths in rpa-skills PR #12, validate them, and rerun independent review before marking it ready. Do not reopen the already merged and approved rpa-skills PR #3.
+Continue the open repository work: check Logika PR #4 and issue #3 first; after #4 lands, fix and independently review rpa-skills PR #12. Preserve the pending placement decision for `/Users/vp/edm/docs/От-посылки-к-заключению.md`. The revised main TeX document is built and visually checked; do not reopen its source interpretation without new evidence.
